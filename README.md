@@ -8,3 +8,4 @@
 
 Згідно із завданням, сигнали 0 та 1 чергуються на виході С13 із затримкою у 5с.
 
+![](https://github.com/reinelind/embeddedLab1/blob/master/ezgif-2-421862c3db.gif)
